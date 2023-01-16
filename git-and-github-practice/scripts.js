@@ -1,2 +1,2 @@
 // JavaScript to be added
-// Editado por Dani
+// Editado por Dani2
